@@ -10,7 +10,8 @@
     "prepare": "npm run build",
     "prepublishOnly": "npm run test",
     "version": "git add -A src",
-    "postversion" : "git push && git push --tags"
+    "postversion" : "git push && git push --tags",
+    "coverage": "jest --config jest.config.json --coverage"
   },
   "repository": {
     "type": "git",
