@@ -6,13 +6,13 @@ import * as string from './validators/string'
 
 import * as n from './normalizers'
 
-export const paak = {
+module.exports = {
   v: {
-    array,
-    common,
-    date,
-    object,
-    string,
+    ...array,
+    ...common,
+    ...date,
+    ...object,
+    ...string,
   },
   n,
   validate: object.validate

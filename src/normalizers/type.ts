@@ -1,1 +1,1 @@
-export default 'VALIDATOR'
+export default 'NORMALIZER'
