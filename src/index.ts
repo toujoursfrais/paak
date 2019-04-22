@@ -6,7 +6,7 @@ import * as string from './validators/string'
 
 import * as n from './normalizers'
 
-export default {
+export const paak = {
   v: {
     array,
     common,
