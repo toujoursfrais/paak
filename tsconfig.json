@@ -14,10 +14,6 @@
     "exclude": [
       "**/*.test.ts",
       "**/type.ts"
-    ],
-    "includes": [
-      "./src/validators",
-      "./src/normalizers",
     ]
   },
   "include": ["src/validators/index.ts"],
