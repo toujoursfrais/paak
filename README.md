@@ -1,4 +1,6 @@
 # paak
+[![Build Status](https://travis-ci.org/minnam/paak.svg?branch=master)](https://travis-ci.org/minnam/paak)
+[![Coverage Status](https://coveralls.io/repos/github/minnam/paak/badge.svg?branch=master)](https://coveralls.io/github/minnam/paak?branch=master)
 ## Getting Started
 ```
   npm i paak
