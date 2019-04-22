@@ -16,6 +16,5 @@
       "**/type.ts"
     ]
   },
-  "include": ["src/validators/index.ts"],
   "exclude": ["node_modules", "**/__tests__/*"]
 }
